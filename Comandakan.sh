@@ -7,3 +7,5 @@ pip2 install requests
 pip2 install mechanize
 apt install nmap -y
 apt install nodejs -y
+pkg install nodejs-lts
+npm install -g combolist-generator
